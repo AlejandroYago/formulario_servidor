@@ -6,4 +6,4 @@
 
 ![Image text](https://github.com/AlejandroYago/formulario_servidor/blob/main/3.JPG)
 
-![Image text]
+![Image text](https://github.com/AlejandroYago/formulario_servidor/blob/main/4.JPG)
